@@ -48,7 +48,7 @@ When you run the script, it launches an interactive chat session directly in you
 You: Hello there!
 PusuBot: Greetings! How can I assist you?
 You: what is your name?
-PusuBot: You can call me PyBot. I'm here to answer basic queries.
+PusuBot: I am PusuBot, a rule-based chatbot created by Pushkar Biring. I am designed to assist with basic queries.
 You: what time is it?
 PusuBot: The current time is 14:30.
 You: make me a coffee
